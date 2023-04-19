@@ -4,3 +4,7 @@ convert .bat files of lines into .svg
 
 
 using https://cad.online-convert.com/convert-to-dwg you can convert to cad files
+
+
+https://image.online-convert.com/convert/dwg-to-svg
+
